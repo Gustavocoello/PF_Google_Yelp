@@ -1,3 +1,7 @@
+<div style="text-align: center;">
+  <img src="./src/img/1.jpg" alt="QuantumCore" width="100%">
+</div>
+
 # PF_Google_Yelp
 
 ## Introduccion
@@ -20,6 +24,10 @@
 
 ## Arquitectura
 
+<div style="text-align: center;">
+  <img src="./src/img/arquitectura.jpg" alt="Arquitectura" width="100%">
+</div>
+
 ## Stack Tecnologico
 
 ## Analisis exploratorio de datos (EDA)
@@ -33,3 +41,6 @@
 ## Estructura del repositorio
 
 ## Equipo de Trabajo
+<div style="text-align: center;">
+  <img src="./src/img/3.jpg" alt="Team_QuantumCore" width="100%">
+</div>
