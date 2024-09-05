@@ -84,7 +84,18 @@
 
 ## Contacto
 
-
+<p text-align: center>
+  
+  | Nombre | GitHub | LinkedIn | Gmail |
+  |---|---|---|---|
+  | Candela, Camilo | [![GitHub](https://img.shields.io/badge/github-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/tu-usuario-de-github) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-de-linkedin) | [![Gmail](https://img.shields.io/badge/gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com) |
+  | Coello, Gustavo | [![GitHub](https://img.shields.io/badge/github-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/tu-usuario-de-github) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-de-linkedin) | [![Gmail](https://img.shields.io/badge/gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com) |
+  | Cortez, Rogelio | [![GitHub](https://img.shields.io/badge/github-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/tu-usuario-de-github) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-de-linkedin) | [![Gmail](https://img.shields.io/badge/gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com) |
+  | Hurtado, Antonio | [![GitHub](https://img.shields.io/badge/github-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/tu-usuario-de-github) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-de-linkedin) | [![Gmail](https://img.shields.io/badge/gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com) |
+  | Rivera, Daniel | [![GitHub](https://img.shields.io/badge/github-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/tu-usuario-de-github) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-de-linkedin) | [![Gmail](https://img.shields.io/badge/gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com) |
+  | Salinas, Vanessa | [![GitHub](https://img.shields.io/badge/github-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/tu-usuario-de-github) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-de-linkedin) | [![Gmail](https://img.shields.io/badge/gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com) |
+  
+</p>
 
 [Tabla de contenido](#tabla-de-contenido)
 
