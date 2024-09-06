@@ -76,7 +76,7 @@ Incremento de un 2 % en número de hoteles por año en la ciudad.</br></br>
   <img src="./src/img/diagrama_sprint.png" alt="SCRUM" width="100%">
 </div>
 
-Para la organización de este proyecto implementamos la metodología SCRUM, por ser un marco de trabajo ágil y colaborativo con el fin obtener el mejor resultado posible de un proyecto.
+Para la organización de este proyecto implementamos la metodología SCRUM, por ser un marco de trabajo ágil y colaborativo con el fin obtener el mejor resultado posible de un proyecto. [Cronograma de Trabajo](https://coworking-henry-pf.atlassian.net/jira/core/projects/PFH/timeline)
 
 [Tabla de contenido](#tabla-de-contenido)
 
