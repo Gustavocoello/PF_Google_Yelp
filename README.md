@@ -100,35 +100,35 @@ Para la organización de este proyecto implementamos la metodología SCRUM, por 
 
 ## Contacto
 
-* **Candela, Camilo**<br>
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="LinkedIn" width="30" height="30" target="_blank"/>](https://github.com/SirCandela)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" target="_blank"/>](https://www.linkedin.com/in/juan-camilo-candela-avenda%C3%B1o-a93a95243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="LinkedIn" width="30" height="30" target="_blank"/>](mailto:candela.jcamilo@gmail.com)
+* **Candela, Camilo**
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="LinkedIn" width="20" height="20" target="_blank"/>](https://github.com/SirCandela)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" target="_blank"/>](https://www.linkedin.com/in/juan-camilo-candela-avenda%C3%B1o-a93a95243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="LinkedIn" width="20" height="20" target="_blank"/>](mailto:candela.jcamilo@gmail.com)
 
-* **Coello, Gustavo**<br>
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="LinkedIn" width="30" height="30" target="_blank"/>](https://github.com/Gustavocoello)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" target="_blank"/>](https://www.linkedin.com/in/gustavo-coello-01039b270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="LinkedIn" width="30" height="30" target="_blank"/>](mailto:coellog634@gmail.com)
+* **Coello, Gustavo**
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="LinkedIn" width="20" height="20" target="_blank"/>](https://github.com/Gustavocoello)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" target="_blank"/>](https://www.linkedin.com/in/gustavo-coello-01039b270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="LinkedIn" width="20" height="20" target="_blank"/>](mailto:coellog634@gmail.com)
 
-* **Cortez, Rogelio**<br>
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="LinkedIn" width="30" height="30" target="_blank"/>](https://github.com/RogerCortezRosas)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" target="_blank"/>](http://www.linkedin.com/in/rogelio-cortez-rosas-85182614b)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="LinkedIn" width="30" height="30" target="_blank"/>](mailto:rcortezrosas@gmail.com)
+* **Cortez, Rogelio**
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="LinkedIn" width="20" height="20" target="_blank"/>](https://github.com/RogerCortezRosas)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" target="_blank"/>](http://www.linkedin.com/in/rogelio-cortez-rosas-85182614b)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="LinkedIn" width="20" height="20" target="_blank"/>](mailto:rcortezrosas@gmail.com)
 
-* **Hurtado, Antonio**<br>
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="LinkedIn" width="30" height="30" target="_blank"/>](https://www.linkedin.com/in/vanesalinas/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" target="_blank"/>](https://www.linkedin.com/in/vanesalinas/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="LinkedIn" width="30" height="30" target="_blank"/>](mailto:antonio.hurtado1993@gmail.com)
+* **Hurtado, Antonio**
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="LinkedIn" width="20" height="20" target="_blank"/>](https://www.linkedin.com/in/vanesalinas/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" target="_blank"/>](https://www.linkedin.com/in/vanesalinas/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="LinkedIn" width="20" height="20" target="_blank"/>](mailto:antonio.hurtado1993@gmail.com)
 
-* **Rivera, Daniel**<br>
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="LinkedIn" width="30" height="30" target="_blank"/>](https://github.com/Danirive30)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" target="_blank"/>](http://www.linkedin.com/in/daniel-rivera-606281249)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="LinkedIn" width="30" height="30" target="_blank"/>](mailto:Daniel.rivera.30@outlook.com)
+* **Rivera, Daniel**
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="LinkedIn" width="20" height="20" target="_blank"/>](https://github.com/Danirive30)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" target="_blank"/>](http://www.linkedin.com/in/daniel-rivera-606281249)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="LinkedIn" width="20" height="20" target="_blank"/>](mailto:Daniel.rivera.30@outlook.com)
 
-* **Salinas Vanessa**<br>
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="LinkedIn" width="30" height="30" target="_blank"/>](https://github.com/vanesalinas)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" target="_blank"/>](https://www.linkedin.com/in/vanesalinas/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="LinkedIn" width="30" height="30" target="_blank"/>](mailto:v.s.salinas@gmail.com)
+* **Salinas Vanessa**
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="LinkedIn" width="20" height="20" target="_blank"/>](https://github.com/vanesalinas)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" target="_blank"/>](https://www.linkedin.com/in/vanesalinas/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="LinkedIn" width="20" height="20" target="_blank"/>](mailto:v.s.salinas@gmail.com)
 
 [Tabla de contenido](#tabla-de-contenido)
 
