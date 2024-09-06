@@ -1,8 +1,9 @@
+<link rel="stylesheet" href="styles.css">
+
 <div style="text-align: center;">
   <img src="./src/img/1.jpg" alt="QuantumCore" width="100%">
+  <h1 align=center> YELP & GOOGLE MAPS - REVIEWS AND RECOMMENDATIONS </h1>
 </div>
-
-# PF_Google_Yelp
 
 ## Introduccion
 
@@ -14,7 +15,6 @@
 * **[Analisis exploratorio de datos (EDA)](#analisis-exploratorio-de-datos-(EDA))**
 * **[KPIs](#kpis)**
 * **[Metodologia de trabajo](#metodologia-de-trabajo)**
-* **[Resultados](#resultados)**
 * **[Estructura del repositorio](#estructura-del-repositorio)**
 * **[Equipo de Trabajo](#equipo-de-trabajo)**
 
@@ -44,20 +44,19 @@ Desarrollar una solución de inteligencia de negocios personalizada, utilizando 
 
 ## Stack Tecnologico
 
-
+<div class="icon-container">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="60" height="60" />
+</div>
 
 [Tabla de contenido](#tabla-de-contenido)
 
 ## Analisis exploratorio de datos (EDA)
-
 
 Puedes ver un resumen del análisis realizado en el siguiente enlace: [Analisis preliminar de la calidad de datos](https://docs.google.com/spreadsheets/d/1PTvthKxuiTSu4wNjCaOBaA0fZNWX6wQAIVMeRPGVfnM/edit?usp=drive_link)
 
 [Tabla de contenido](#tabla-de-contenido)
 
 ## KPIs
-
-
 
 * **Tasa de disminución de reseñas negativas**</br></br>
 Reducir un 2% el número de reseñas negativas respecto al mes anterior
@@ -80,15 +79,13 @@ Para la organización de este proyecto implementamos la metodología SCRUM, por 
 
 [Tabla de contenido](#tabla-de-contenido)
 
-## Resultados
-
-
-
-[Tabla de contenido](#tabla-de-contenido)
-
 ## Estructura del repositorio
 
-
+* EDA_preliminar: Carpeta que almacena los archivos para el EDA inicial.
+* Fundamentacion: Carpeta que almacena la documentacion del proyecto.
+* src/img: carpeta que almacena imagenes que se encuentran en el repositorio.
+* .gitignore: archivo que indica lo que no debe ser rastreado por git
+* README.md: archivo con el readme del proyecto donde podras ver la presentacion del mismo.
 
 [Tabla de contenido](#tabla-de-contenido)
 
@@ -106,12 +103,12 @@ Para la organización de este proyecto implementamos la metodología SCRUM, por 
   
   | Nombre | GitHub | LinkedIn | Gmail |
   |---|---|---|---|
-  | Candela, Camilo | [![GitHub](https://img.shields.io/badge/github-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/tu-usuario-de-github) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-de-linkedin) | [![Gmail](https://img.shields.io/badge/gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com) |
-  | Coello, Gustavo | [![GitHub](https://img.shields.io/badge/github-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/tu-usuario-de-github) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-de-linkedin) | [![Gmail](https://img.shields.io/badge/gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com) |
-  | Cortez, Rogelio | [![GitHub](https://img.shields.io/badge/github-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/tu-usuario-de-github) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-de-linkedin) | [![Gmail](https://img.shields.io/badge/gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com) |
-  | Hurtado, Antonio | [![GitHub](https://img.shields.io/badge/github-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/tu-usuario-de-github) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-de-linkedin) | [![Gmail](https://img.shields.io/badge/gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com) |
-  | Rivera, Daniel | [![GitHub](https://img.shields.io/badge/github-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/tu-usuario-de-github) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-de-linkedin) | [![Gmail](https://img.shields.io/badge/gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com) |
-  | Salinas, Vanessa | [![GitHub](https://img.shields.io/badge/github-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/tu-usuario-de-github) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-de-linkedin) | [![Gmail](https://img.shields.io/badge/gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com) |
+  | Candela, Camilo | [![GitHub](https://img.shields.io/badge/github-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/SirCandela) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-camilo-candela-avenda%C3%B1o-a93a95243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | [![Gmail](https://img.shields.io/badge/gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:candela.jcamilo@gmail.com) |
+  | Coello, Gustavo | [![GitHub](https://img.shields.io/badge/github-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/tu-usuario-de-github) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-de-linkedin) | [![Gmail](https://img.shields.io/badge/gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:coellog634@gmail.com) |
+  | Cortez, Rogelio | [![GitHub](https://img.shields.io/badge/github-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/RogerCortezRosas) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/rogelio-cortez-rosas-85182614b) | [![Gmail](https://img.shields.io/badge/gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:rcortezrosas@gmail.com) |
+  | Hurtado, Antonio | [![GitHub](https://img.shields.io/badge/github-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/tu-usuario-de-github) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-de-linkedin) | [![Gmail](https://img.shields.io/badge/gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:antonio.hurtado1993@gmail.com) |
+  | Rivera, Daniel | [![GitHub](https://img.shields.io/badge/github-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Danirive30) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/daniel-rivera-606281249) | [![Gmail](https://img.shields.io/badge/gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:Daniel.rivera.30@outlook.com) |
+  | Salinas, Vanessa | [![GitHub](https://img.shields.io/badge/github-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/vanesalinas) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanesalinas/) | [![Gmail](https://img.shields.io/badge/gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:v.s.salinas@gmail.com) |
   
 </p>
 
