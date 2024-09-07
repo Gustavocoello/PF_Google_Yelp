@@ -7,6 +7,9 @@
 
 ## Introduccion
 
+Somos QuantumCore Analytics, nuestra misión es transformar datos en conocimiento práctico para impulsar el crecimiento y la innovación de las empresas. Nos comprometemos a ofrecer soluciones de ingeniería y análisis de datos que sean precisas, confiables y adaptadas a las necesidades específicas de nuestros clientes, fortaleciendo así la toma de decisiones estratégicas en toda la región.<br>
+Nuestra vision, ser la compañía líder en ingeniería y análisis de datos en Latinoamérica, reconocida por nuestra capacidad para convertir datos complejos en insights valiosos que generen un impacto significativo en la economía y la sociedad latinoamericana. Aspiramos a ser un referente en la industria, conocido por nuestra innovación, integridad y excelencia técnica.
+
 ## Tabla de contenido
 * **[Contexto](#contexto)**
 * **[Objetivos y alcance](#objetivos-y-alcance)**
