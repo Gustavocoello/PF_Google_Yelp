@@ -47,7 +47,7 @@ cols_drop = ['yelping_since', 'elite', 'friends', 'fans', 'compliment_hot', 'com
 df_users_cleaned = df_users_cleaned(*cols_drop)
 
 # Convertir el DataFrame filtrado de vuelta a DynamicFrame
-df_users_clean = DynamicFrame.fromDF(df_users_clean, glueContext, "df_users_clean")
+df_users_clean = DynamicFrame.fromDF(df_users_cleaned, glueContext, "df_users_clean")
 
 # Escribir los resultados en S3 en formato Parquet
 glueContext.write_dynamic_frame.from_options(
