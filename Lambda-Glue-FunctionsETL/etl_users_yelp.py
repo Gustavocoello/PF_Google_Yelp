@@ -20,7 +20,7 @@ job.init(args['JOB_NAME'], args)
 df_users = glueContext.create_dynamic_frame.from_options(
     connection_type="s3",
     format="parquet",
-    connection_options={"paths": ["s3://yelp-lh2/user.parquet"]},
+    connection_options={"paths": ["s3://yelp-lh/user.parquet"]},
     transformation_ctx="ResolveSource"
 ).toDF()
 
@@ -54,7 +54,7 @@ glueContext.write_dynamic_frame.from_options(
     frame=df_users_clean,
     connection_type="s3",
     format="parquet",
-    connection_options={"path": "s3://yelp-wh2/user.parquet"},
+    connection_options={"path": "s3://yelp-wh/user.parquet"},
     transformation_ctx="s3output"
 )
 
