@@ -21,7 +21,7 @@ job.init(args['JOB_NAME'], args)
 df_checkin = glueContext.create_dynamic_frame.from_options(
     connection_type="s3",
     format="parquet",
-    connection_options={"paths": ["s3://yelp-lh2/checkin.parquet"]},
+    connection_options={"paths": ["s3://yelp-lh/checkin.parquet/"]},
     transformation_ctx="ResolveSource"
 ).toDF()
 
