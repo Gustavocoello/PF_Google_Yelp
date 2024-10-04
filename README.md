@@ -69,7 +69,7 @@ Reducir un 2% el número de reseñas negativas respecto al mes anterior
 Incremento de un 2 % en la demanda de restaurantes por semestre en la ciudad.
 
 * **Tasa de aumento en número de hoteles**</br></br>
-Incremento de un 2 % en número de hoteles por año en la ciudad.</br></br>
+Incremento de un 20 % en número de hoteles por año en la ciudad.</br></br>
 
 [Tabla de contenido](#tabla-de-contenido)
 
